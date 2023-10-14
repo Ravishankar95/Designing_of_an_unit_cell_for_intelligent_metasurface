@@ -1,1 +1,4 @@
 # Designing_of_an_unit_cell_for_intelligent_metasurface
+# DESCRIPTION
+
+In this project, we have design an intelligent metasurface that operates in the reflection mode in the microwave frequency range. Here we show that how we achieve the tunable perfect absorption and tunable anomalous reflection without any changes in the body of metamaterial surfaces. To achieve this result, we will use a mixed-signal integrated circuits (ICs) which consist of passive elements i.e., resistor and capacitor and by varying these elements value we will find the optimal value of resistance and capacitance that help us to achieve the desired results. The ICs are embedded in the unit cells by connecting two metal patches over a thin grounded substrate and the reflection property of the intelligent metasurface can be readily controlled by a computer.
